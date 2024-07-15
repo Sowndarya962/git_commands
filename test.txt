@@ -1,4 +1,5 @@
 line 1
-line 2
+line 2 changed by test2
 mdification from feature/test1 branch
 adding a line to test pull request
+
