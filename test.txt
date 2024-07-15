@@ -1,4 +1,6 @@
 line 1
 line 2
 mdification from feature/test1 branch
-adding a line to test pull request
+adding a line to test pull reques
+
+adding one line to test conflict from tets1
