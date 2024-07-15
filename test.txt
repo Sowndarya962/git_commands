@@ -1,4 +1,4 @@
-line 1 changed by test1
+line 1 adding a conflict from branch2
 line 2 changed by test2
 modifictaion from main branch
 mdification from feature/test1 branch
