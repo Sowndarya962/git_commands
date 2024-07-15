@@ -1,6 +1,5 @@
-line 1
-line 2
+line 1 changed by test1
+line 2 changed by test2
+modifictaion from main branch
 mdification from feature/test1 branch
-adding a line to test pull reques
-
-adding one line to test conflict from tets1
+adding a line to test pull request
