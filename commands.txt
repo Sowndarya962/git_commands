@@ -1,2 +1,3 @@
-line to check reset
-test line
+
+initial line
+checking fetch
