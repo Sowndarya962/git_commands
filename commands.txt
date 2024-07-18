@@ -1,1 +1,2 @@
 line to check reset
+test line
